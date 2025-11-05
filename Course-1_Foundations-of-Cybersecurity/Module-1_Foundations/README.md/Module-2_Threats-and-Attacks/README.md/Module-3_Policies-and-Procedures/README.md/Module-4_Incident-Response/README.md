@@ -1,25 +1,37 @@
-## Module 1 – Foundations of Cybersecurity
+## 🧠 Module 1 – Foundations of Cybersecurity
 
-### Overview
-This module introduced the fundamentals of cybersecurity — including confidentiality, integrity, and availability — and explored the responsibilities of entry-level analysts.
+### 🌍 Overview
+This module introduced the **fundamentals of cybersecurity** — including **Confidentiality 🔒**, **Integrity 🧾**, and **Availability 🌐** — and explored the responsibilities of **entry-level analysts**.  
+It laid the groundwork for understanding the people, processes, and technologies that protect organizations in the digital world.
 
-### Highlights
-- Completed the “Test Your Knowledge: Introduction to Cybersecurity” quiz with 100%
-- Set up my cybersecurity portfolio on GitHub and Google Drive
-- Learned about cybersecurity roles, concepts, and frameworks
+---
 
-### Screenshot
-#Module-1_test_your_knowledge [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/m1_test_knowledge_100.png)
-#Module-1_test_your_knowledge2 [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/m1_test_knowledge2_100.png)
-#Module-1_Challenge_Exam [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/Module%201%20Challenge.png)
+### 🔑 Highlights
+- ✅ Completed the **“Test Your Knowledge: Introduction to Cybersecurity”** quiz with **100%**  
+- 🗂️ Set up my **cybersecurity portfolio** on GitHub and Google Drive  
+- 💻 Learned about key **cybersecurity roles**, **concepts**, and **frameworks**  
+- 🔐 Understood how the **CIA Triad** forms the foundation of all cybersecurity operations  
+
+---
+
+### 📸 Screenshots
+- 🧩 **Module 1 – Test Your Knowledge**  
+  [📷 Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/m1_test_knowledge_100.png)
+
+- 🧩 **Module 1 – Test Your Knowledge (Part 2)**  
+  [📷 Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/m1_test_knowledge2_100.png)
+
+- 🧪 **Module 1 – Challenge Exam**  
+  [📷 Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/Module%201%20Challenge.png)
 
 ---
 
 ## 📘 Detailed Summary & Reflection
-You can view my complete **Module 1: Foundations of Cybersecurity Summary & Reflection** here:  
-👉 [View the full summary file](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/Foundations%20of%20Cybersecurity%20%E2%80%93%20My%20Module%201%20Summary%20&%20Reflection)
+You can view my complete **Module 1 – Foundations of Cybersecurity Summary & Reflection** here:  
+👉 [📄 View the full summary file](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-1/Foundations%20of%20Cybersecurity%20%E2%80%93%20My%20Module%201%20Summary%20&%20Reflection)
 
 ---
+
 ## 🧠 Module 2 – The Evolution of Cybersecurity
 
 ### 🌍 Overview
@@ -46,7 +58,9 @@ This module explored how cybersecurity has evolved over time — from the early 
 You can view my complete **Module 2 – The Evolution of Cybersecurity Summary & Reflection** here:  
 👉 [View the full summary file](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Course-1_Foundations-of-Cybersecurity/Module-1_Foundations/README.md/Module-2_Threats-and-Attacks/README.md/Module-3_Policies-and-Procedures/README.md/Module-4_Incident-Response/Module-2_Summary_%26_Reflection)
 
-# 🧠 Google Coursera Module 3: Connect and Protect – Networks and Network Security  
+---
+
+# 🧠 Module 3: Protect against threats, risks, and vulnerabilities
 **📅 Date:** November 2025  
 
 ---
@@ -107,16 +121,21 @@ Ultimately, *Connect and Protect* taught me that **network security is the found
 
 ## 📸 Screenshots
 - 🧩 **Module-3 Test Your Knowledge**  
-  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-3/m3_test_knowledge_100.png)  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Course-1_Foundations-of-Cybersecurity/Module-1_Foundations/README.md/Module-2_Threats-and-Attacks/README.md/Module-3_Policies-and-Procedures/README.md/Module-4_Incident-Response/C1M3%20TYK%201.png)
+  🧩 **Module-3 Test Your Knowledge 2**  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/C1M3%20TYK2.png)  
 - 🧩 **Module-3 Challenge Exam**  
-  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-3/Module%203%20Challenge.png)  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module%203%20Challenge.png)  
 
 ---
 
 ## 📘 Detailed Summary & Reflection
 You can view my complete **Module 3 – Connect and Protect: Networks and Network Security Summary & Reflection** here:  
 👉 [View the full summary file](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-3/Connect%20and%20Protect%20%E2%80%93%20My%20Module%203%20Summary%20%26%20Reflection)
-# 🧠 Google Coursera Module 4: Tools of the Trade – Linux and SQL  
+
+---
+
+# 🧠 Module 4: Cybersecurity tools and programming languages
 **📅 Date:** November 2025  
 
 ---
@@ -170,9 +189,13 @@ Ultimately, *Tools of the Trade* demonstrated that mastery of Linux and SQL prov
 
 ## 📸 Screenshots
 - 🧩 **Module-4 Test Your Knowledge**  
-  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-4/m4_test_knowledge_100.png)  
-- 🧩 **Module-4 Challenge Exam**  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module%204%20TYK%201.png)
+- 🧩 **Module-4 Test Your Knowledge 2**  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module%204%20TYK%202.png)
+- 🧩 **Module-4 Draft a Professional Statement**  
   [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-4/Module%204%20Challenge.png)  
+- 🧩 **Module-4 Challenge Exam**  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module%204%20Challenge.png)  
 
 ---
 
