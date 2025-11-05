@@ -36,9 +36,9 @@ This module explored how cybersecurity has evolved over time — from the early 
 - 🧩 **Module-2 Test Your Knowledge**  
   [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Course-1_Foundations-of-Cybersecurity/Module-1_Foundations/README.md/Module-2_Threats-and-Attacks/README.md/Module-3_Policies-and-Procedures/README.md/Module-4_Incident-Response/Module%202%20TYK1.png)  
 - 🧩 **Module-2 Test Your Knowledge 2**  
-  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-2/m2_test_knowledge2_100.png)  
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Course-1_Foundations-of-Cybersecurity/Module-1_Foundations/README.md/Module-2_Threats-and-Attacks/README.md/Module-3_Policies-and-Procedures/README.md/Module-4_Incident-Response/Module%202%20TYK2.png)  
 - 🧪 **Module-2 Challenge Exam**  
-  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-2/Module%202%20Challenge.png)
+  [Click here to view the screenshot](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Course-1_Foundations-of-Cybersecurity/Module-1_Foundations/README.md/Module-2_Threats-and-Attacks/README.md/Module-3_Policies-and-Procedures/README.md/Module-4_Incident-Response/M2%20Challenge.png)
 
 ---
 
