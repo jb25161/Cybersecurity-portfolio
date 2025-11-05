@@ -44,4 +44,4 @@ This module explored how cybersecurity has evolved over time — from the early 
 
 ## 📘 Detailed Summary & Reflection
 You can view my complete **Module 2 – The Evolution of Cybersecurity Summary & Reflection** here:  
-👉 [View the full summary file](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Module-2/The%20Evolution%20of%20Cybersecurity%20%E2%80%93%20My%20Module%202%20Summary%20%26%20Reflection)
+👉 [View the full summary file](https://github.com/jb25161/Cybersecurity-portfolio/blob/main/Course-1_Foundations-of-Cybersecurity/Module-1_Foundations/README.md/Module-2_Threats-and-Attacks/README.md/Module-3_Policies-and-Procedures/README.md/Module-4_Incident-Response/Module-2_Summary_%26_Reflection)
